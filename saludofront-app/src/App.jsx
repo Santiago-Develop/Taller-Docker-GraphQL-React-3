@@ -127,7 +127,6 @@ function  LongName() {
 
   return (
     <div>
-      <h2> Victor Alomia (HU-VA-0003)</h2>
       <Form onSubmit={handleSubmit}>
         <Form.Group controlId="formLongName">
           <Form.Control
